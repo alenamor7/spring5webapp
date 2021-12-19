@@ -2,8 +2,6 @@ package com.springframework.spring5webapp.model;
 
 import javax.persistence.*;
 import java.util.HashSet;
-import java.util.Iterator;
-import java.util.Queue;
 import java.util.Set;
 
 @Entity
