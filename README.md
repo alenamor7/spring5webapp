@@ -1,4 +1,4 @@
-# spring5webapp
+# Spring 5 web application
 
 ### This is an example of Spring application with some Spring features
 <br>
